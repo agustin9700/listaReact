@@ -1,9 +1,9 @@
 {
   "development": {
     "username": "root",
-    "password": "root",
-    "database": "clanwar",
-    "host": "127.0.0.1",
+    "password": "eOEWwrvKBwascSOXPUOCaPpfrrCZsZCW",
+    "database": "railway",
+    "host": "viaduct.proxy.rlwy.net",
     "dialect": "mysql"
   },
   "test": {
